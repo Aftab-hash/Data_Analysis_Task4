@@ -40,7 +40,7 @@ This is an interactive business dashboard designed using Power BI. It visualizes
 
 ## 📑 Summary PPT
 
-- See `dashboard_summary.pptx` for stakeholder presentation.
+- See `Sales_Dashboard_Task4.pptx` for stakeholder presentation.
 
 ---
 
